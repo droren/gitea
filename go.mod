@@ -302,6 +302,8 @@ replace github.com/shurcooL/vfsgen => github.com/lunny/vfsgen v0.0.0-20220105142
 
 replace github.com/nektos/act => gitea.com/gitea/act v0.243.4
 
+replace golang.org/x/crypto => github.com/droren/crypto v0.12.1
+
 exclude github.com/gofrs/uuid v3.2.0+incompatible
 
 exclude github.com/gofrs/uuid v4.0.0+incompatible
